@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tests on <GifItem /> component should be match with the snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Master Chief Halo GIF by Xbox"
+      src="https://media2.giphy.com/media/b4ab9TBk9Ornvrt9W8/giphy-downsized-medium.gif?cid=8c7595b4vldb5u0mu6eldps3w7w0hcatlqsudgtzz74uuwox&rid=giphy-downsized-medium.gif&ct=g"
+    />
+    <p>
+      Master Chief Halo GIF by Xbox
+    </p>
+  </div>
+</div>
+`;
